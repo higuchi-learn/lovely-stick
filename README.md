@@ -5,7 +5,6 @@
 **技育CAMP ハッカソン vol.19 優秀賞（2位）／ 技育博2024 vol.6 株式会社ゆめみ企業賞**
 <img width="1108" height="620" alt="image" src="https://github.com/user-attachments/assets/328c6f28-cc6a-489e-abb4-9fd2ea641dde" />
 
-![alt text](image-3.png)
 <img width="1084" height="568" alt="SnapCrab_No-0106" src="https://github.com/user-attachments/assets/a09384c2-9828-4d07-ab33-7206d0b33fa4" />
 
 ## 概要
